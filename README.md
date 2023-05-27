@@ -38,7 +38,7 @@ The flow of this data pipeline revolves mostly aroung the configuration and setu
 
 <img src="https://github.com/victorlou/bootcamp-data-eng/blob/main/image.png?raw=true" width="700"/>
 
-With these, the steps to be followed are:
+With this, the steps to be followed are:
 
 1. Cloud Watch activates ECS every 15 seconds;
 2. ECS executes python ingestion code to retrieve information from [Mercado Bitcoin](https://www.mercadobitcoin.com.br/);
